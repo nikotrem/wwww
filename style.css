@@ -1,0 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #0a0909;
+  background-image: url(https://www.lisc.org/media/filer_public_thumbnails/filer_public/46/8e/468ea2e9-850c-4f2a-8c72-f320a321a8f7/020623_brooklyn_prospect_charter.jpg__1477x800_q85_subsampling-2.jpg);
+  background-size: 650px;
+}
